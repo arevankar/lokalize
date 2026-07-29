@@ -1,0 +1,26 @@
+{
+  "name": "lokalize",
+  "version": "1.0.0",
+  "description": "Simple Next.js adder app",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arevankar/lokalize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arevankar/lokalize/issues"
+  },
+  "homepage": "https://github.com/arevankar/lokalize#readme",
+  "dependencies": {
+    "next": "^16.2.12",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
